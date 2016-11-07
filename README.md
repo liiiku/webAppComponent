@@ -10,9 +10,9 @@ html5移动端数据可视化报告
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/77.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/88.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/99.png)
-![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/1010.png)
+![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/1010.png)                                                            
 二维码：                                                                                                                                    
-![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/result.png)
+![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/result.png)                                                          
 项目描述：
 尝试用组件方式组织编写代码，效果可扫描二维码在手机上查看（由于是专门做的移动端，pc端查看最好用开发者工具查看）
 1、整个项目的DOM操作用采用jQuery库，项目的整页滚动操作采用fullpage.js插件实现
