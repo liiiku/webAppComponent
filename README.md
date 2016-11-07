@@ -1,6 +1,6 @@
 # webAppComponent
 html5移动端数据可视化报告
-效果展示：
+效果展示：                                                                                                                                  
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/11.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/22.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/33.png)
@@ -11,7 +11,7 @@ html5移动端数据可视化报告
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/88.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/99.png)
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/1010.png)
-二维码：
+二维码：                                                                                                                                    
 ![Alt text](https://github.com/liiiku/webAppComponent/blob/master/imgs/result.png)
 项目描述：
 尝试用组件方式组织编写代码，效果可扫描二维码在手机上查看（由于是专门做的移动端，pc端查看最好用开发者工具查看）
